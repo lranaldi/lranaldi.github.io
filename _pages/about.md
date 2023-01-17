@@ -10,4 +10,4 @@ redirect_from:
 
 I am a PhD student at Bonn Graduate School of Economics ([BGSE](https://www.bgse.uni-bonn.de/en)), University of Bonn.
 
-My research interest is in Macro. In particular, I try to answer Macro-relevant questions empirically both with Macro and Micro level data. Dominant themes in my work are inflation, asset returns and inequality. Finally, I am also very keen on Macro-econometrics and identification.
+My research interest is in Macroeconomics. I try to find new Macro-relevant questions and answer to them empirically both with Macro and Micro level data. Dominant themes in my work are inflation, asset returns and inequality. 
