@@ -15,8 +15,6 @@ My research interest is in Macroeconomics and Macro-finance. I try to find new M
 
 ## News
 
-*Here you can add any new updates or news related to your academic and research activities. For instance:*
-
 - August 29, 2024: I will present at the CEBRA Annual meeting my paper "Inflation Surprises and Asset Returns: A Macrohistory Perspective".
 - May 16, 2024: Presented at the St Louis FED my paper "Inflation Surprises and Asset Returns: A Macrohistory Perspective". Draft available soon!
 
